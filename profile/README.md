@@ -9,7 +9,7 @@
 <h1 align="center">We clear the way.</h1>
 
 <p align="center">
-  The vehicle data platform for road freight.
+  The AI data platform for road freight and construction.
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@
 
 ---
 
-CO3 provides real-time access, visibility, and insights into vehicle data across road freight networks. We connect fleets, subcontractors, telematics providers, truck OEMs, trailer OEMs, and TMS platforms into one aggregated API stream — helping logistics businesses improve operational efficiency, reduce cost, and build more sustainable transport workflows.
+CO3 provides real-time access, visibility, and insights into vehicle data across road freight networks. We connect fleets, subcontractors, telematics providers, truck OEMs, trailer OEMs, and TMS platforms into a single aggregated API stream — helping logistics businesses improve operational efficiency, reduce costs, and build more sustainable transport workflows.
 
-Our platform powers use cases across GPS visibility, predictive ETA, CO₂ emissions, fuel consumption, temperature compliance, and event data.
+CO3 platform powers use cases across GPS visibility, predictive ETA, CO₂ emissions, fuel consumption, temperature compliance, and event data.
 
 ## What we build
 
-- **Vehicle data infrastructure** for European road freight
+- **Vehicle data infrastructure** for European road freight and construction
 - **One API** for aggregated fleet and subcontractor data
 - **High-density GPS visibility** directly from trucks, trailers, telematics systems, and TMS providers
 - **Predictive ETA** and operational visibility for transport teams
