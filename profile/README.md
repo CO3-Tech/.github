@@ -63,7 +63,7 @@ CO3 is API infrastructure for road freight. Our engineering work focuses on reli
 
 Explore the API:
 
-[api.co3.tech](https://api.co3.tech/)
+[docs.co3.tech](https://docs.co3.tech/)
 
 ## Brand
 
@@ -79,5 +79,5 @@ Official CO3 brand assets, logos, colors, and usage guidelines are available her
 ---
 
 <p align="center">
-  <strong>Connection. Communication. Cooperation.</strong>
+  <strong>CO3 - We clear the way.</strong>
 </p>
